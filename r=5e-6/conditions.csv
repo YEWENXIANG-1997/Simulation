@@ -1,0 +1,14 @@
+endTs,1000000
+incTs_snap,20000
+dT[s],0.00001
+H[m],0.001
+R[m],0.0005
+r_h[m],0.000005
+normalK_wall[N/m],5000000000
+normalK_sand[N/m],5000000000
+shearK_sand[N/m],5000000000
+dynamicMu,0.4
+staticMu,0.7
+porosity,0.5
+viscosity_damp,50
+initialfactor,0.1

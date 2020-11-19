@@ -1,0 +1,9 @@
+V 3
+1000000
+1e-05
+20000
+ESyS-Particle_2.3.4_bzr_rev. 0
+BoundingBox -0.00051 -0.00051 -1e-05 0.00051 0.00051 0.00101
+PeriodicBoundaries 0 0 0
+Dimension 3D
+snapshot_packing_t=20000_1.txt snapshot_packing_t=20000_2.txt snapshot_packing_t=20000_3.txt snapshot_packing_t=20000_4.txt
