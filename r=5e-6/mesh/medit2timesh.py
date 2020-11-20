@@ -108,6 +108,6 @@ if __name__ == "__main__":
       Medit2TriMesh(meshfile=argv[1],outfile=argv[2],inPoint=[0,10,0])
 
    else:
-      Medit2TriMesh(meshfile="cylinder",outfile="cylinder.lsm",inPoint=[0,0,0.001])
+      Medit2TriMesh(meshfile="cylinder",outfile="cylinder.lsm",inPoint=[0,0,1e-9])
 
 # save as mesh as INRIA medit
